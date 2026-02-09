@@ -66,7 +66,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🤖 6. [AI Voice Chat Generator](https://submitaitools.org/category/best-ai-voice-chat-generator-tools)  
+## 🤖 6. [AI Voice Chat Generator](https://submitaitools.org/category/best-ai-voice-chat-generator-tools)
 **Description:** Create natural, responsive voice-based chatbot conversations using AI.
 
 **Top Tools:**
@@ -75,6 +75,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Replica Studios](https://replicastudios.com/)
 - [Altered](https://www.altered.ai/)
 - [ChatFAI + Voice](https://www.chatfai.com/)
+- [ClawdTalk](https://github.com/team-telnyx/clawdtalk-client) - Voice AI tool that gives AI agents phone calling capabilities with real-time conversation and tool use.
 
 ---
 
