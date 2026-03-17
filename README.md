@@ -147,6 +147,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Apple Siri](https://www.apple.com/siri/)
 - [Hound](https://www.soundhound.com/)
 - [Mycroft AI](https://mycroft.ai/)
+- [OpenVoiceUI](https://github.com/MCERQUA/OpenVoiceUI)
 
 ---
 
