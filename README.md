@@ -46,6 +46,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 **Description:** AI-powered tools for trimming, enhancing, mixing, and editing voice and audio content.
 
 **Top Tools:**
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
 - [Descript](https://www.descript.com/)
 - [Adobe Podcast](https://podcast.adobe.com/)
 - [Soundtrap](https://www.soundtrap.com/)
