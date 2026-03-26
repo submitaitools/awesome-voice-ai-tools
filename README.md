@@ -64,6 +64,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [MorphVOX](https://screamingbee.com/morphvox-voice-changer)
 - [FineVoice](https://www.fineshare.com/finevoice/)
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
 ---
 
 ## 🤖 6. [AI Voice Chat Generator](https://submitaitools.org/category/best-ai-voice-chat-generator-tools)  
