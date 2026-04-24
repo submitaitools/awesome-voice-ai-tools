@@ -142,6 +142,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 **Description:** Virtual assistants that use natural language and voice interaction to perform tasks.
 
 **Top Tools:**
+- [AnveVoice](https://anvevoice.app)
 - [Google Assistant](https://assistant.google.com/)
 - [Amazon Alexa](https://developer.amazon.com/en-US/alexa)
 - [Apple Siri](https://www.apple.com/siri/)
