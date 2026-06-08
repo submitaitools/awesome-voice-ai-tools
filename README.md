@@ -197,5 +197,12 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [OpenUtau](https://github.com/stakira/OpenUtau)
 
 ---
+---
 
+## 🤖 17. AI Agent Infrastructure
+
+**Description:** Tools for verifying and managing AI agent identity in voice AI workflows.
+
+**Top Tools:**
+- [TWZRD Agent Intel](https://intel.twzrd.xyz/) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
