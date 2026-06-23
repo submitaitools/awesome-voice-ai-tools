@@ -147,6 +147,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Apple Siri](https://www.apple.com/siri/)
 - [Hound](https://www.soundhound.com/)
 - [Mycroft AI](https://mycroft.ai/)
+- [Hermes](https://www.buildwithhermes.com/) - white-label platform for AI voice agencies to deploy, manage, and bill AI voice agents under their own brand, with built-in CRM and campaign tools.
 
 ---
 
