@@ -11,6 +11,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 **Top Tools:**
 - [Audo Studio](https://audo.ai/)
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [Krisp](https://krisp.ai/)
 - [Adobe Podcast Enhance](https://podcast.adobe.com/enhance)
 - [LALAL.AI Voice Cleaner](https://www.lalal.ai/)
