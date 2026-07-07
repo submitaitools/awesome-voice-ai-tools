@@ -167,6 +167,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 **Top Tools:**
 - [Suno](https://suno.ai/)
+- [RunAPI Suno SDK](https://github.com/runapi-ai/suno-sdk)
 - [Mubert](https://mubert.com/)
 - [Soundraw](https://soundraw.io/)
 - [Beatoven](https://www.beatoven.ai/)
@@ -197,5 +198,4 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [OpenUtau](https://github.com/stakira/OpenUtau)
 
 ---
-
 
