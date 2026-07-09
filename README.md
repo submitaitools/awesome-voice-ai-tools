@@ -195,6 +195,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Voicify AI](https://voicify.ai/)
 - [Suno](https://suno.ai/)
 - [OpenUtau](https://github.com/stakira/OpenUtau)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ---
 
