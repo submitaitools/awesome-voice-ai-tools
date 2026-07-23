@@ -27,6 +27,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [ElevenLabs](https://elevenlabs.io/)
 - [LOVO](https://www.lovo.ai/)
 - [TTSMaker](https://ttsmaker.com/)
+- [CharaVox](https://charavox.com)
 
 ---
 
