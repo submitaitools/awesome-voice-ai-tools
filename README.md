@@ -34,11 +34,12 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 **Description:** Transcribe speech or audio into accurate text in real-time or from recordings.
 
 **Top Tools:**
-- [Whisper by OpenAI](https://openai.com/research/whisper)
+- [Descript](https://www.descript.com/)
+- [DictaFlow](https://dictaflow.io/)
 - [Otter.ai](https://otter.ai/)
 - [Sonix](https://sonix.ai/)
 - [Trint](https://trint.com/)
-- [Descript](https://www.descript.com/)
+- [Whisper by OpenAI](https://openai.com/research/whisper)
 
 ---
 
