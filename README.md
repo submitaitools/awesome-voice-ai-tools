@@ -36,6 +36,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 **Top Tools:**
 - [Whisper by OpenAI](https://openai.com/research/whisper)
 - [Otter.ai](https://otter.ai/)
+- [Botik](https://github.com/777genius/discord-meeting-assistant) - Self-hosted Discord meeting assistant: recording, transcript, summary, and Q&A
 - [Sonix](https://sonix.ai/)
 - [Trint](https://trint.com/)
 - [Descript](https://www.descript.com/)
