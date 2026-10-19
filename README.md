@@ -51,6 +51,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Soundtrap](https://www.soundtrap.com/)
 - [Auphonic](https://auphonic.com/)
 - [AudioShake](https://audioshake.ai/)
+- [Vocal Separator](https://vocalseparator.com/)
 
 ---
 
