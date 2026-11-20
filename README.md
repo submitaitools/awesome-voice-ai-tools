@@ -39,6 +39,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Sonix](https://sonix.ai/)
 - [Trint](https://trint.com/)
 - [Descript](https://www.descript.com/)
+- [Utterwove](https://utterwove.kriva.studio/)
 
 ---
 
@@ -197,5 +198,3 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [OpenUtau](https://github.com/stakira/OpenUtau)
 
 ---
-
-
